@@ -9,9 +9,9 @@ from csv_loader import parse_files
 from query import run_queries
 from validator import load_airports
 
-STUDENT_ID = "000RDB000"
-FIRST_NAME = "Name"
-LAST_NAME = "Surname"
+STUDENT_ID = "251ADB123"
+FIRST_NAME = "Giorgi"
+LAST_NAME = "Janikashvili"
 
 
 def get_args(argv):
